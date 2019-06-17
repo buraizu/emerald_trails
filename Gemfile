@@ -18,6 +18,7 @@ gem 'puma', '~> 3.11'
 gem 'foreman', '~> 0.82.0'
 gem 'pry'
 gem 'active_model_serializers'
+gem 'jquery-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
