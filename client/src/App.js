@@ -13,7 +13,7 @@ class App extends Component {
     fetch('/api/events')
       .then(response => response.json())
       .then(responseJson => console.log(responseJson))
-
+      // sample change
   }
   render() {
     return (
